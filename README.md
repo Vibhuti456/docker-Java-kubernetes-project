@@ -11,6 +11,8 @@ Shop Front – Acts as the main frontend API, aggregating data from the Product 
 
 Each microservice is packaged into its own Docker image and deployed as a separate Kubernetes deployment. Kubernetes Services are used to enable communication between microservices and expose endpoints for access within the cluster or externally.
 
+Documentation: https://vibhutijain.hashnode.dev/java-application-deployment-on-kubernetes
+
 ### Application Shopfront
 <img width="1792" height="810" alt="image" src="https://github.com/user-attachments/assets/3b6cca78-39f6-439e-9fc3-e5fdf3454f8c" />
 
